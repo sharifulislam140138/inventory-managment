@@ -6,7 +6,7 @@
             <!-- Page-Title -->
             <div class="row">
                 <div class="col-sm-12">
-                    <h4 class="pull-left page-title">Welcome !</h4>
+                    <h4 class="pull-left page-title">Welcome to </h4>
                     <ol class="breadcrumb pull-right">
                         <li><a href="#">Echobvel</a></li>
                         <li class="active">IT</li>
@@ -19,7 +19,7 @@
 	          <div class="col-md-12">
 	              <div class="panel panel-default">
 	                  <div class="panel-heading">
-	                      <h3 class="panel-title">Pay  Salary <span class="pull-right text-danger">{{ date("F Y") }}</span></h3>
+	                      <h3 class="panel-title">  Salary pay <span class="pull-right text-danger">{{ date("F Y") }}</span></h3>
 	                      
 	                  </div>
 	                  <div class="panel-body">

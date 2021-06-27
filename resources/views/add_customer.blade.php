@@ -6,7 +6,7 @@
             <!-- Page-Title -->
             <div class="row">
                 <div class="col-sm-12">
-                    <h4 class="pull-left page-title">Welcome !</h4>
+                    <h4 class="pull-left page-title">Welcome customer</h4>
                     <ol class="breadcrumb pull-right">
                         <li><a href="#">Echobvel</a></li>
                         <li class="active">IT</li>
@@ -20,7 +20,7 @@
 	           <div class="col-md-2"></div>
                 <div class="col-md-8 ">
                     <div class="panel panel-default">
-                        <div class="panel-heading"><h3 class="panel-title">Add Customer</h3></div>
+                        <div class="panel-heading"><h3 class="panel-title"> Customer add </h3></div>
                         @if ($errors->any())
                             <div class="alert alert-danger">
                                 <ul>
